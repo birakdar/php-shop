@@ -1,0 +1,30 @@
+.m-1{
+  margin: 1rem !important
+}
+.mr-2{
+  margin-right: 2rem !important
+}
+.mt-4{
+  margin-top: 4rem !important
+}
+.p-1{
+  padding: 1rem;
+}
+.p-2{
+  padding: 2rem;
+}
+.inline-block{
+  display: inline-block !important;
+}
+table td{
+  vertical-align: middle !important;
+}
+.form-control {
+  padding: 0px 12px !important;
+}
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+  float: right !important;
+}
+th, td {
+  text-align: center;
+}
